@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiraz98
-- 👀 I’m interested in Web development and graphic design
-- 🌱 I’m currently learning data science
+- 👀 I’m currently a junior fullstack developer
+- 🌱 I’m lurning abour Devops
 - 💞️ I’m looking to collaborate on a strating project
 - 📫 How to reach me chirazbougoffa3@gmail.com
 
